@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gradient-to-r from-[#52BDAA] via-[#FFFFFF] via-70% to-[#52BDAA] py-2 px-10 md:flex items-center justify-around ">
+    <div class="bg-gradient-to-r from-[#54BE96] via-[#FFFFFF] via-70% to-[#54BE96] py-2 px-10 md:flex items-center justify-around ">
         <div class="md:mx-2">
             <h1 class="text-[#54BD95]  font-semibold text-[50px] cursor-pointer">Biccas</h1>
         </div>
